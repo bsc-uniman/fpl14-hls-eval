@@ -1,5 +1,5 @@
-
-==============
+Sources for an empirical evaluation of HLS languages and tools
+==============================================================
 
 This sources have been used for the publication in FPL'14:
 
